@@ -1,6 +1,6 @@
 <!-- markdownlint-disable-next-line -->
 <p align="center">
-  <a href="https://mui.com/" rel="noopener" target="_blank"><img width="150" src="/docs/public/static/logo.svg" alt="MUI logo"></a>
+  <a href="https://mui.com/" rel="noopener" target="_blank"><img width="150" src="../../docs/public/static/logo.svg" alt="MUI logo"></a>
 </p>
 
 <h1 align="center">MUI Core</h1>
@@ -33,6 +33,10 @@
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1320/badge)](https://bestpractices.coreinfrastructure.org/projects/1320)
 
 </div>
+
+## Custom features
+1. @mui/material/Container 
+   1. Added possibility to have a variants and customize them using module augmentation.
 
 ## Installation
 

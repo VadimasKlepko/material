@@ -1,6 +1,6 @@
 {
   "name": "@vadimas.klepko/material",
-  "version": "5.10.7",
+  "version": "1.0.1",
   "author": "MUI Team",
   "description": "React components that implement Google's Material Design.",
   "main": "./index.js",
